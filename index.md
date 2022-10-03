@@ -31,9 +31,9 @@ My top 5 favorite films are
 5. Memento
 
 My goals for college are to
-- [ ] Meet new people
-- [ ] Learn useful skills
-- [ ] Get a better idea of what I want to do
+- [ ]  Meet new people
+- [ ]  Learn useful skills
+- [ ]  Get a better idea of what I want to do
 
 For more information, see the [README](README.md) file.
 
